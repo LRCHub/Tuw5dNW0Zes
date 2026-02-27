@@ -1,0 +1,232 @@
+{
+  "version": 1,
+  "base_track": "Cry out",
+  "base_artist": "ONE OK ROCK",
+  "createdAt": "2026-02-27T16:15:05.953731Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "When the Wolves Cry Out",
+      "artist": "Miracle Of Sound",
+      "has_synced": false,
+      "path": "select/01_When_the_Wolves_Cry_Out_Miracle_Of_Sound.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "When the Wolves Cry Out",
+      "artist": "Miracle Of Sound",
+      "has_synced": true,
+      "path": "select/02_When_the_Wolves_Cry_Out_Miracle_Of_Sound.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Cry Out the Fools",
+      "artist": "Fifth Angel",
+      "has_synced": true,
+      "path": "select/03_Cry_Out_the_Fools_Fifth_Angel.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Cry Out",
+      "artist": "Paradise Lost",
+      "has_synced": true,
+      "path": "select/04_Cry_Out_Paradise_Lost.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Don't Cry Out",
+      "artist": "Shiny Toy Guns",
+      "has_synced": true,
+      "path": "select/05_Don't_Cry_Out_Shiny_Toy_Guns.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Cry out",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/06_Cry_out_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Cry out for a Hero",
+      "artist": "Beast in Black",
+      "has_synced": true,
+      "path": "select/07_Cry_out_for_a_Hero_Beast_in_Black.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Cry Out",
+      "artist": "Pegazus",
+      "has_synced": false,
+      "path": "select/08_Cry_Out_Pegazus.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "A Stone Would Cry Out",
+      "artist": "Sam Roberts",
+      "has_synced": true,
+      "path": "select/09_A_Stone_Would_Cry_Out_Sam_Roberts.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Don't Cry Out Loud",
+      "artist": "Melissa Manchester",
+      "has_synced": true,
+      "path": "select/10_Don't_Cry_Out_Loud_Melissa_Manchester.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "We Don't Cry out Loud",
+      "artist": "Shirley Bassey",
+      "has_synced": false,
+      "path": "select/11_We_Don't_Cry_out_Loud_Shirley_Bassey.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Don't Cry Out Loud",
+      "artist": "Elkie Brooks",
+      "has_synced": false,
+      "path": "select/12_Don't_Cry_Out_Loud_Elkie_Brooks.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Cry Out",
+      "artist": "The Answer",
+      "has_synced": true,
+      "path": "select/13_Cry_Out_The_Answer.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Grown Man Cry",
+      "artist": "Amanda Palmer",
+      "has_synced": false,
+      "path": "select/14_Grown_Man_Cry_Amanda_Palmer.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Grown Man Cry",
+      "artist": "Amanda Palmer & The Grand Theft Orchestra",
+      "has_synced": true,
+      "path": "select/15_Grown_Man_Cry_Amanda_Palmer_&_The_Grand_Theft_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "A Shoulder to Cry On",
+      "artist": "Charley Pride",
+      "has_synced": true,
+      "path": "select/16_A_Shoulder_to_Cry_On_Charley_Pride.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "C'mon Baby, Cry",
+      "artist": "Orville Peck",
+      "has_synced": true,
+      "path": "select/17_C'mon_Baby,_Cry_Orville_Peck.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Cry",
+      "artist": "Faith Hill",
+      "has_synced": true,
+      "path": "select/18_Cry_Faith_Hill.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Cry (Album Version)",
+      "artist": "Faith Hill",
+      "has_synced": true,
+      "path": "select/19_Cry_(Album_Version)_Faith_Hill.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Cry (Remaster)",
+      "artist": "Faith Hill",
+      "has_synced": true,
+      "path": "select/20_Cry_(Remaster)_Faith_Hill.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Cry Myself to Sleep",
+      "artist": "The Judds",
+      "has_synced": true,
+      "path": "select/21_Cry_Myself_to_Sleep_The_Judds.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Cry, Cry, Cry",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/22_Cry,_Cry,_Cry_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Cry, Cry, Cry",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/23_Cry,_Cry,_Cry_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Grown Men Don't Cry",
+      "artist": "Tim McGraw",
+      "has_synced": true,
+      "path": "select/24_Grown_Men_Don't_Cry_Tim_McGraw.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Grown Men Don't Cry",
+      "artist": "Tim McGraw",
+      "has_synced": false,
+      "path": "select/25_Grown_Men_Don't_Cry_Tim_McGraw.txt"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "I Won't Cry",
+      "artist": "Charley Crockett",
+      "has_synced": false,
+      "path": "select/26_I_Won't_Cry_Charley_Crockett.txt"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "I'm So Lonesome I Could Cry (Single Version)",
+      "artist": "Hank Williams",
+      "has_synced": true,
+      "path": "select/27_I'm_So_Lonesome_I_Could_Cry_(Single_Version)_Hank_Williams.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Cry out",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_01_Cry_out_ONE_OK_ROCK.txt"
+    }
+  ]
+}
